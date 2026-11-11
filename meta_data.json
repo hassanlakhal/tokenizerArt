@@ -1,0 +1,15 @@
+{
+  "name": "Lakhal NFT #42",
+  "description": "A unique digital artwork representing NFT number 42.",
+  "image": "https://chocolate-academic-swordtail-403.mypinata.cloud/ipfs/bafybeig42go6kznwjocot4ff4nuy6jrfnzvibgx3qt4obvzbtmf52iiqti",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": 42
+    },
+    {
+      "trait_type": "Collection",
+      "value": "hlakhal-"
+    }
+  ]
+}
